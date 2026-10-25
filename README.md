@@ -1,4 +1,4 @@
-# Clue Line Hub
+# Clue Line
 
 Clue Line 是一款以自由轨道为核心的 2D 音乐游戏项目。
 
